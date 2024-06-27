@@ -46,6 +46,8 @@ pragma solidity 0.8.18;
 
 contract MyToken {
     // Public variables here
+
+    
     string public tokenname= "Metacrafters Challenge";
     string public symbol= " M C";
     uint256 public totalSupply=0;
